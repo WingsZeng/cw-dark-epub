@@ -2,7 +2,7 @@
 
 This is my solution to add a dark mode switch in calibre-web's epub reader.
 
-As a dark mode gay, I'd like to read epub book in dark mode. And there more people want it  according to the issues. However, the author seems not to support the feature, because the epub reader is not the focus. Also I noticed that all the PRs that implemented the dark mode epub reader were rejected. So I wrote one like a patch, which can be easily installed without lots conflits.
+As a dark mode gay, I'd like to read epub book in dark mode. And there more people want it  according to the issues. However, the author seems not to support the feature, because the epub reader is not the focus. Also I noticed that all the PRs that implemented the dark mode epub reader were rejected. So I wrote one like a patch, which can be easily installed without lots conflicts.
 
 # Screenshot
 
