@@ -1,0 +1,12 @@
+#main.dark {
+    background: #282828;
+}
+body.dark, #panels.dark {
+    background: #111;
+}
+#tocView.dark, #bookmarksView.dark, #sidebar.dark {
+    background: #1c1c1c;
+}
+#titlebar.dark {
+    color: #fff;
+}
