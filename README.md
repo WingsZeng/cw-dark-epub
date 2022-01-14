@@ -13,7 +13,7 @@ As a dark mode gay, I'd like to read epub book in dark mode. And there more peop
 
 Download the files. Copy `css` and `js` folders to `your_path_to/cps/static/`.
 
-Modify `your_path_to/cps/templates/read.html` to import the js. For examble, you can add ```<script src="{{ url_for('static', filename='js/reading/epub_theme.js') }}"></script>``` at the end of the body element like:
+Edit `your_path_to/cps/templates/read.html` to import the js. For examble, you can add ```<script src="{{ url_for('static', filename='js/reading/epub_theme.js') }}"></script>``` at the end of the body element like:
 
 ```html
 <!DOCTYPE html>
